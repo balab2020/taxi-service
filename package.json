@@ -1,0 +1,19 @@
+{
+  "name": "taxi-service",
+  "version": "1.0.0",
+  "description": "angular,restful",
+  "main": "index.js",
+  "scripts": {
+    "test": "-"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balab2020/taxi-service.git"
+  },
+  "author": "balamuruganb2020@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balab2020/taxi-service/issues"
+  },
+  "homepage": "https://github.com/balab2020/taxi-service#readme"
+}
